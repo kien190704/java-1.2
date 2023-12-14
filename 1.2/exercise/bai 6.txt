@@ -1,0 +1,2 @@
+if u want the result of 10/3 to be 3.333333 u need to rewrite the equation like this : 
+10.0/3.0

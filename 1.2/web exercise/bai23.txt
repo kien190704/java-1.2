@@ -1,0 +1,4 @@
+double C = (F - 32) * (5 / 9);
+This is wrong because it has brackets in (5/9), this is divide so there is no need for for brackets
+the right equation is :
+   double C = (F - 32) * 5 / 9;

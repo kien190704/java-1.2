@@ -1,0 +1,10 @@
+|    x      |     y     | Result |
+|-----------|-----------|--------|
+|   False   |   False   | False  |
+|   False   |   True    | True   |
+|   True    |   False   | True   |
+|   True    |   True    | False  |
+
+x and y represent the value 
+if x and y are the same => the result is False
+if x and y are not the same => the result is true

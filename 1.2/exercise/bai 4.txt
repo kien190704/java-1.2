@@ -1,0 +1,4 @@
+(!(a < b) && !(a > b))
+a khong nho hon b 
+a khong lon hon b 
+=> a = b 

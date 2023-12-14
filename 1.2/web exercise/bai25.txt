@@ -1,0 +1,6 @@
+boolean b = 1;
+boolean b = true;
+boolean b = "true";
+boolean b = True;
+ 
+ Only the second one is correct

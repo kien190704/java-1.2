@@ -1,0 +1,5 @@
+int t = a;
+b = t;
+a = b;
+
+cho a = b = t
